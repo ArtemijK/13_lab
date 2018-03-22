@@ -1,0 +1,8 @@
+7
+vlg 34 airbus
+rostov 31 boing
+vlg 169 boing
+moskow 12 comac
+india 269 atr
+usa 5 saab
+sochi 384 mc
